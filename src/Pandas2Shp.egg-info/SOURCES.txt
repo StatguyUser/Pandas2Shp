@@ -1,0 +1,9 @@
+README.rst
+setup.cfg
+setup.py
+src/Pandas2Shp.py
+src/Pandas2Shp.egg-info/PKG-INFO
+src/Pandas2Shp.egg-info/SOURCES.txt
+src/Pandas2Shp.egg-info/dependency_links.txt
+src/Pandas2Shp.egg-info/requires.txt
+src/Pandas2Shp.egg-info/top_level.txt
