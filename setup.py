@@ -12,7 +12,7 @@ else:
 
 setup(
     name='Pandas2Shp',
-    version='0.0.1',
+    version='0.0.2',
     description='Create shp file for geo-spatial analysis from longitude and latitude',
     long_description=long_description,
     long_description_content_type='text/markdown',  # This is important!
